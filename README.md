@@ -3,4 +3,4 @@ This is a simple counter program made using HTML, CSS &amp; JS. I have used some
 
 Link of the website 👉  https://5rashmi.github.io/Simple-Counter-Program/
 
-#Thank you for visiting my repository!🙏
+# Thank you for visiting my repository!🙏
